@@ -1,0 +1,15 @@
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\bin\Debug\net9.0\Catalog.Application.deps.json
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\bin\Debug\net9.0\Catalog.Application.dll
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\bin\Debug\net9.0\Catalog.Application.pdb
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\bin\Debug\net9.0\Catalog.Core.dll
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\bin\Debug\net9.0\Catalog.Core.pdb
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\obj\Debug\net9.0\Catalog.Application.csproj.AssemblyReference.cache
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\obj\Debug\net9.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\obj\Debug\net9.0\Catalog.Application.AssemblyInfoInputs.cache
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\obj\Debug\net9.0\Catalog.Application.AssemblyInfo.cs
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\obj\Debug\net9.0\Catalog.Application.csproj.CoreCompileInputs.cache
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\obj\Debug\net9.0\Catalog..75771DFE.Up2Date
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\obj\Debug\net9.0\Catalog.Application.dll
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\obj\Debug\net9.0\refint\Catalog.Application.dll
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\obj\Debug\net9.0\Catalog.Application.pdb
+E:\visual studio\Ecommerce\services\catalog\Catalog.Application\obj\Debug\net9.0\ref\Catalog.Application.dll
