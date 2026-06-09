@@ -1,0 +1,19 @@
+name: dockercompose4351289505490129312
+services:
+  catalog.api:
+    build:
+      context: E:\visual studio\Ecommerce
+      dockerfile: services/catalog/Catalog.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: catalogapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose4351289505490129312_default
