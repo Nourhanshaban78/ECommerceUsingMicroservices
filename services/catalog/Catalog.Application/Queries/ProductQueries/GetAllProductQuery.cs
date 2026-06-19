@@ -1,4 +1,5 @@
 ﻿using Catalog.Application.Responses;
+using Catalog.Core.Specs;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,13 @@ using System.Threading.Tasks;
 
 namespace Catalog.Application.Queries.ProductQueries
 {
-    public class GetAllProductQuery :IRequest<IList<ProductResponseDto>>
+    public class GetAllProductQuery :IRequest<Pagination<ProductResponseDto>>
     {
+        public GetAllProductQuery(CatalogSpecParam specParam)
+        {
+            this.specParam = specParam;
+        }
+
+        public CatalogSpecParam specParam  { get; set; }
     }
 }

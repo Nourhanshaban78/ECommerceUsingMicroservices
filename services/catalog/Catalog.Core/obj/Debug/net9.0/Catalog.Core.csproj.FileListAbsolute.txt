@@ -10,3 +10,16 @@ E:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\refint
 E:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\Catalog.Core.pdb
 E:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\ref\Catalog.Core.dll
 E:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\Catalog.Core.csproj.AssemblyReference.cache
+F:\visual studio\Ecommerce\services\catalog\Catalog.Core\bin\Debug\net9.0\Catalog.Core.deps.json
+F:\visual studio\Ecommerce\services\catalog\Catalog.Core\bin\Debug\net9.0\Catalog.Core.dll
+F:\visual studio\Ecommerce\services\catalog\Catalog.Core\bin\Debug\net9.0\Catalog.Core.pdb
+F:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\Catalog.Core.csproj.AssemblyReference.cache
+F:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\Catalog.Core.AssemblyInfoInputs.cache
+F:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\Catalog.Core.AssemblyInfo.cs
+F:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\Catalog.Core.csproj.CoreCompileInputs.cache
+F:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\Catalog.Core.sourcelink.json
+F:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\Catalog.Core.dll
+F:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\refint\Catalog.Core.dll
+F:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\Catalog.Core.pdb
+F:\visual studio\Ecommerce\services\catalog\Catalog.Core\obj\Debug\net9.0\ref\Catalog.Core.dll

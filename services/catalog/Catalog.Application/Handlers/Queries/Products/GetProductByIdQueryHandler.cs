@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Catalog.Application.Handlers.Queries.Products
 {
-    public class GetProductByIdQueryHandler : IRequestHandler<GetProductByIdQuery, ProductResponseDto>
+    public class GetProductByIdQueryHandler : IRequestHandler<GetproductByNameQuery, ProductResponseDto>
     {
         private readonly IProductRepository _productRepository;
         private readonly IMapper _mapper;
@@ -22,7 +22,7 @@ namespace Catalog.Application.Handlers.Queries.Products
             _mapper = mapper;
         }
 
-        public async Task<ProductResponseDto> Handle(GetProductByIdQuery request, CancellationToken cancellationToken)
+        public async Task<ProductResponseDto> Handle(GetproductByNameQuery request, CancellationToken cancellationToken)
         {
             var product = await _productRepository.GetProductByID(request.Id);
             var ProdcutResponse = _mapper.Map<ProductResponseDto>(product);

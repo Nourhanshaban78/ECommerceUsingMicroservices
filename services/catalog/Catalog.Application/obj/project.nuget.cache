@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JF7ztYvOSH8=",
+  "dgSpecHash": "dlSrMRPbvpg=",
   "success": true,
-  "projectFilePath": "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj",
+  "projectFilePath": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Work\\.nuget\\packages\\aspnetcore.healthchecks.mongodb\\9.0.0\\aspnetcore.healthchecks.mongodb.9.0.0.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
@@ -35,19 +35,16 @@
     "C:\\Users\\Work\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\Work\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512",
-    "C:\\Users\\Work\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",
-    "C:\\Users\\Work\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "C:\\Users\\Work\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.12\\microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512"
+    "C:\\Users\\Work\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'AutoMapper' 13.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
-      "projectPath": "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj",
+      "projectPath": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj",
       "warningLevel": 1,
-      "filePath": "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj",
+      "filePath": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net9.0"

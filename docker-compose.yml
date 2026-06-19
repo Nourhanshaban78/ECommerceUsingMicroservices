@@ -5,21 +5,30 @@ services:
       context: .
       dockerfile: services/catalog/Catalog.API/Dockerfile
     ports:
-    - "8000:8000"
+      - "8000:8000"
     depends_on:
-    - catalogDb
+      catalogDb:
+        condition: service_healthy
     environment:
-    - DatabaseSettings__ConnecionString=mongoDb://catalog:27017
-    - DatabaseSettings__DatabaseName=CatalogDb
-    - DatabaseSettings__BrandsCollection=Brands 
-    - DatabaseSettings__TypesCollection=Types
-    - DatabaseSettings__ProductsCollection=Products
+      - ASPNETCORE_URLS=http://+:8000
+      - DatabaseSettings__ConnectionString=mongodb://catalogDb:27017
+      - DatabaseSettings__DatabaseName=CatalogDb
+      - DatabaseSettings__BrandsCollection=Brands
+      - DatabaseSettings__TypesCollection=Types
+      - DatabaseSettings__ProductsCollection=Products
+
   catalogDb:
-    image: mongo
+    image: mongo:4.4  
     container_name: catalogDb
     ports:
-     - "27017:27017"
+      - "27017:27017"
     volumes:
-    - catalogdata:/data/db
+      - catalogdata:/data/db
+    healthcheck:
+      test: ["CMD", "mongo", "--eval", "db.adminCommand('ping')"] 
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
 volumes:
   catalogdata:

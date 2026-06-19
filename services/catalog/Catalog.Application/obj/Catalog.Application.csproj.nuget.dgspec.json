@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj": {}
+    "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj": {}
   },
   "projects": {
-    "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj": {
+    "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj",
+        "projectUniqueName": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj",
         "projectName": "Catalog.Application",
-        "projectPath": "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj",
+        "projectPath": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Catalog.Application.csproj",
         "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-        "outputPath": "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\obj\\",
+        "outputPath": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,14 +26,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {
-              "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Catalog.Core.csproj": {
-                "projectPath": "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Catalog.Core.csproj"
+              "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Catalog.Core.csproj": {
+                "projectPath": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Catalog.Core.csproj"
               }
             }
           }
@@ -48,10 +50,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "AutoMapper": {
@@ -74,37 +77,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Catalog.Core.csproj": {
+    "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Catalog.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Catalog.Core.csproj",
+        "projectUniqueName": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Catalog.Core.csproj",
         "projectName": "Catalog.Core",
-        "projectPath": "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Catalog.Core.csproj",
+        "projectPath": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Catalog.Core.csproj",
         "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
-        "outputPath": "E:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\obj\\",
+        "outputPath": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -119,10 +108,12 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -137,10 +128,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "AspNetCore.HealthChecks.MongoDb": {
@@ -163,26 +155,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[9.0.12, 9.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

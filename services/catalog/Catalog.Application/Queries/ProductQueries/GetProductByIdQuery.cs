@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace Catalog.Application.Queries.ProductQueries
 {
-    public class GetProductByIdQuery :IRequest<ProductResponseDto>
+    public class GetproductByNameQuery :IRequest<ProductResponseDto>
     {
-        public GetProductByIdQuery(string id)
+        public GetproductByNameQuery(string id)
         {
             Id = id;
         }

@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Catalog.Application.Handlers.Queries.Products
 {
-    public class GetProductByNameQueryHandler : IRequestHandler<GatProductByNameQuery, IList<ProductResponseDto>>
+    public class GetProductByNameQueryHandler : IRequestHandler<GetProductByNameQuery, IList<ProductResponseDto>>
     {
         private readonly IProductRepository _productRepository;
         private readonly IMapper _mapper;
@@ -22,7 +22,7 @@ namespace Catalog.Application.Handlers.Queries.Products
             _productRepository = productRepository;
             _mapper = mapper;
         }
-        public async Task<IList<ProductResponseDto>> Handle(GatProductByNameQuery request, CancellationToken cancellationToken)
+        public async Task<IList<ProductResponseDto>> Handle(GetProductByNameQuery request, CancellationToken cancellationToken)
         {
             var productName = await _productRepository.GetProductByName(request.Name);
             var productResponse = _mapper.Map<IList<ProductResponseDto>>(productName);
