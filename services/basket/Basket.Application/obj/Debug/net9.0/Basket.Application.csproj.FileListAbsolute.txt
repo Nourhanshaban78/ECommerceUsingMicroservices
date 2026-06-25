@@ -1,0 +1,16 @@
+F:\visual studio\Ecommerce\services\basket\Basket.Application\bin\Debug\net9.0\Basket.Application.deps.json
+F:\visual studio\Ecommerce\services\basket\Basket.Application\bin\Debug\net9.0\Basket.Application.dll
+F:\visual studio\Ecommerce\services\basket\Basket.Application\bin\Debug\net9.0\Basket.Application.pdb
+F:\visual studio\Ecommerce\services\basket\Basket.Application\obj\Debug\net9.0\Basket.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\Ecommerce\services\basket\Basket.Application\obj\Debug\net9.0\Basket.Application.AssemblyInfoInputs.cache
+F:\visual studio\Ecommerce\services\basket\Basket.Application\obj\Debug\net9.0\Basket.Application.AssemblyInfo.cs
+F:\visual studio\Ecommerce\services\basket\Basket.Application\obj\Debug\net9.0\Basket.Application.csproj.CoreCompileInputs.cache
+F:\visual studio\Ecommerce\services\basket\Basket.Application\obj\Debug\net9.0\Basket.Application.sourcelink.json
+F:\visual studio\Ecommerce\services\basket\Basket.Application\obj\Debug\net9.0\Basket.Application.dll
+F:\visual studio\Ecommerce\services\basket\Basket.Application\obj\Debug\net9.0\refint\Basket.Application.dll
+F:\visual studio\Ecommerce\services\basket\Basket.Application\obj\Debug\net9.0\Basket.Application.pdb
+F:\visual studio\Ecommerce\services\basket\Basket.Application\obj\Debug\net9.0\ref\Basket.Application.dll
+F:\visual studio\Ecommerce\services\basket\Basket.Application\bin\Debug\net9.0\Basket.Domain.dll
+F:\visual studio\Ecommerce\services\basket\Basket.Application\bin\Debug\net9.0\Basket.Domain.pdb
+F:\visual studio\Ecommerce\services\basket\Basket.Application\obj\Debug\net9.0\Basket.Application.csproj.AssemblyReference.cache
+F:\visual studio\Ecommerce\services\basket\Basket.Application\obj\Debug\net9.0\Basket.A.E41EB0DD.Up2Date

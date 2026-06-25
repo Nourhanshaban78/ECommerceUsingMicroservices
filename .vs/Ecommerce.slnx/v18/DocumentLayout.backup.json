@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "F:\\visual studio\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A3B4E37-426D-49C2-A937-D2F9BAA16D71}|services\\catalog\\Catalog.Core\\Catalog.Core.csproj|f:\\visual studio\\ecommerce\\services\\catalog\\catalog.core\\specs\\catalogspecparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A3B4E37-426D-49C2-A937-D2F9BAA16D71}|services\\catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\specs\\catalogspecparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{120DBDA4-6D9E-4D3F-8D49-5E9C965EA193}|services\\catalog\\Catalog.Application\\Catalog.Application.csproj|f:\\visual studio\\ecommerce\\services\\catalog\\catalog.application\\queries\\productqueries\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{120DBDA4-6D9E-4D3F-8D49-5E9C965EA193}|services\\catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\queries\\productqueries\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33FC5A32-CDDC-EE43-9CA6-483EA2BFBE99}|services\\catalog\\Catalog.API\\Catalog.API.csproj|f:\\visual studio\\ecommerce\\services\\catalog\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33FC5A32-CDDC-EE43-9CA6-483EA2BFBE99}|services\\catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{120DBDA4-6D9E-4D3F-8D49-5E9C965EA193}|services\\catalog\\Catalog.Application\\Catalog.Application.csproj|f:\\visual studio\\ecommerce\\services\\catalog\\catalog.application\\handlers\\queries\\products\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{120DBDA4-6D9E-4D3F-8D49-5E9C965EA193}|services\\catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\handlers\\queries\\products\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{120DBDA4-6D9E-4D3F-8D49-5E9C965EA193}|services\\catalog\\Catalog.Application\\Catalog.Application.csproj|f:\\visual studio\\ecommerce\\services\\catalog\\catalog.application\\mappers\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{120DBDA4-6D9E-4D3F-8D49-5E9C965EA193}|services\\catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\mappers\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A3B4E37-426D-49C2-A937-D2F9BAA16D71}|services\\catalog\\Catalog.Core\\Catalog.Core.csproj|f:\\visual studio\\ecommerce\\services\\catalog\\catalog.core\\specs\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A3B4E37-426D-49C2-A937-D2F9BAA16D71}|services\\catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\specs\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A3B4E37-426D-49C2-A937-D2F9BAA16D71}|services\\catalog\\Catalog.Core\\Catalog.Core.csproj|f:\\visual studio\\ecommerce\\services\\catalog\\catalog.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A3B4E37-426D-49C2-A937-D2F9BAA16D71}|services\\catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95566059-9E8B-4834-9491-26864CB2D2C8}|services\\catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|f:\\visual studio\\ecommerce\\services\\catalog\\catalog.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95566059-9E8B-4834-9491-26864CB2D2C8}|services\\catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|f:\\visual studio\\ecommerce\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,99 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CatalogController.cs",
-              "DocumentMoniker": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.API\\Controllers\\CatalogController.cs",
-              "RelativeDocumentMoniker": "services\\catalog\\Catalog.API\\Controllers\\CatalogController.cs",
-              "ToolTip": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.API\\Controllers\\CatalogController.cs",
-              "RelativeToolTip": "services\\catalog\\Catalog.API\\Controllers\\CatalogController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAowDUAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T16:07:57.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetAllProductQueryHandler.cs",
-              "DocumentMoniker": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Handlers\\Queries\\Products\\GetAllProductQueryHandler.cs",
-              "RelativeDocumentMoniker": "services\\catalog\\Catalog.Application\\Handlers\\Queries\\Products\\GetAllProductQueryHandler.cs",
-              "ToolTip": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Handlers\\Queries\\Products\\GetAllProductQueryHandler.cs",
-              "RelativeToolTip": "services\\catalog\\Catalog.Application\\Handlers\\Queries\\Products\\GetAllProductQueryHandler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T16:07:12.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductMappingProfile.cs",
-              "DocumentMoniker": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
-              "RelativeDocumentMoniker": "services\\catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
-              "ToolTip": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
-              "RelativeToolTip": "services\\catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T16:06:27.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetAllProductQuery.cs",
-              "DocumentMoniker": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Queries\\ProductQueries\\GetAllProductQuery.cs",
-              "RelativeDocumentMoniker": "services\\catalog\\Catalog.Application\\Queries\\ProductQueries\\GetAllProductQuery.cs",
-              "ToolTip": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Application\\Queries\\ProductQueries\\GetAllProductQuery.cs",
-              "RelativeToolTip": "services\\catalog\\Catalog.Application\\Queries\\ProductQueries\\GetAllProductQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T16:05:42.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CatalogSpecParam.cs",
-              "DocumentMoniker": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Specs\\CatalogSpecParam.cs",
-              "RelativeDocumentMoniker": "services\\catalog\\Catalog.Core\\Specs\\CatalogSpecParam.cs",
-              "ToolTip": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Specs\\CatalogSpecParam.cs",
-              "RelativeToolTip": "services\\catalog\\Catalog.Core\\Specs\\CatalogSpecParam.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T04:28:51.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "services\\catalog\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "services\\catalog\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwBEAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T04:47:31.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "services\\catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "ToolTip": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "services\\catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T04:40:25.461Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -145,15 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Pagination.cs",
-              "DocumentMoniker": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Specs\\Pagination.cs",
-              "RelativeDocumentMoniker": "services\\catalog\\Catalog.Core\\Specs\\Pagination.cs",
-              "ToolTip": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.Core\\Specs\\Pagination.cs",
-              "RelativeToolTip": "services\\catalog\\Catalog.Core\\Specs\\Pagination.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T04:38:17.453Z",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "F:\\visual studio\\Ecommerce\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "F:\\visual studio\\Ecommerce\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-24T20:55:38.672Z",
               "EditorCaption": ""
             }
           ]

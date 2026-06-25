@@ -1,0 +1,74 @@
+name: dockercompose4487269298576997641
+services:
+  basket.api:
+    build:
+      context: F:\visual studio\Ecommerce
+      dockerfile: services/basket/Basket.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: basketapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+  catalog.api:
+    build:
+      context: F:\visual studio\Ecommerce
+      dockerfile: services/catalog/Catalog.API/Dockerfile
+    depends_on:
+      catalogDb:
+        condition: service_healthy
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_URLS: http://+:8000
+      DatabaseSettings__BrandsCollection: Brands
+      DatabaseSettings__ConnectionString: mongodb://catalogDb:27017
+      DatabaseSettings__DatabaseName: CatalogDb
+      DatabaseSettings__ProductsCollection: Products
+      DatabaseSettings__TypesCollection: Types
+    image: catalogapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8000
+        published: "8000"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+  catalogDb:
+    container_name: catalogDb
+    healthcheck:
+      test:
+        - CMD
+        - mongo
+        - --eval
+        - db.adminCommand('ping')
+      timeout: 5s
+      interval: 5s
+      retries: 5
+    image: mongo:4.4
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 27017
+        published: "27017"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: catalogdata
+        target: /data/db
+        volume: {}
+networks:
+  default:
+    name: dockercompose4487269298576997641_default
+volumes:
+  catalogdata:
+    name: dockercompose4487269298576997641_catalogdata
