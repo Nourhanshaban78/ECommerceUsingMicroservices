@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5/CMRxY1Syk=",
+  "dgSpecHash": "WgJbE844w1k=",
   "success": true,
   "projectFilePath": "F:\\visual studio\\Ecommerce\\services\\catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -46,7 +46,11 @@
     "C:\\Users\\Work\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\Work\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+    "C:\\Users\\Work\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.18\\microsoft.windowsdesktop.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.18\\microsoft.netcore.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.18\\microsoft.aspnetcore.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.18\\microsoft.netcore.app.host.win-x64.9.0.18.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,16 @@
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\bin\Debug\net9.0\Discount.Application.deps.json
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\bin\Debug\net9.0\Discount.Application.dll
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\bin\Debug\net9.0\Discount.Application.pdb
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\bin\Debug\net9.0\Discount.Core.dll
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\bin\Debug\net9.0\Discount.Core.pdb
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\obj\Debug\net9.0\Discount.Application.csproj.AssemblyReference.cache
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\obj\Debug\net9.0\Discount.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\obj\Debug\net9.0\Discount.Application.AssemblyInfoInputs.cache
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\obj\Debug\net9.0\Discount.Application.AssemblyInfo.cs
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\obj\Debug\net9.0\Discount.Application.csproj.CoreCompileInputs.cache
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\obj\Debug\net9.0\Discount.Application.sourcelink.json
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\obj\Debug\net9.0\Discount.FBECC352.Up2Date
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\obj\Debug\net9.0\Discount.Application.dll
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\obj\Debug\net9.0\refint\Discount.Application.dll
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\obj\Debug\net9.0\Discount.Application.pdb
+F:\visual studio\Ecommerce\services\dicount\Discount.Application\obj\Debug\net9.0\ref\Discount.Application.dll

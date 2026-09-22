@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DiTjzq7LsDg=",
+  "dgSpecHash": "802pK6DGF1c=",
   "success": true,
   "projectFilePath": "F:\\visual studio\\Ecommerce\\services\\basket\\Basket.API\\Basket.API.csproj",
   "expectedPackageFiles": [
@@ -32,7 +32,11 @@
     "C:\\Users\\Work\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.6\\swashbuckle.aspnetcore.swaggergen.9.0.6.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.6\\swashbuckle.aspnetcore.swaggerui.9.0.6.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
-    "C:\\Users\\Work\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+    "C:\\Users\\Work\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.18\\microsoft.windowsdesktop.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.18\\microsoft.netcore.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.18\\microsoft.aspnetcore.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.18\\microsoft.netcore.app.host.win-x64.9.0.18.nupkg.sha512"
   ],
   "logs": []
 }

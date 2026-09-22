@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nxHmKJuOChU=",
+  "success": true,
+  "projectFilePath": "F:\\visual studio\\Ecommerce\\services\\dicount\\Discount.Core\\Discount.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.18\\microsoft.windowsdesktop.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.18\\microsoft.netcore.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.18\\microsoft.aspnetcore.app.ref.9.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

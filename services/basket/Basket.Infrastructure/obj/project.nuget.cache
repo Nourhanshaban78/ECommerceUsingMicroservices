@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AuOFOkn3oVw=",
+  "dgSpecHash": "NseswxB5ETk=",
   "success": true,
   "projectFilePath": "F:\\visual studio\\Ecommerce\\services\\basket\\Basket.Infrastructure\\Basket.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -21,7 +21,10 @@
     "C:\\Users\\Work\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
-    "C:\\Users\\Work\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+    "C:\\Users\\Work\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.18\\microsoft.windowsdesktop.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.18\\microsoft.netcore.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.18\\microsoft.aspnetcore.app.ref.9.0.18.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,12 @@
+F:\visual studio\Ecommerce\services\dicount\Discount.Core\bin\Debug\net9.0\Discount.Core.deps.json
+F:\visual studio\Ecommerce\services\dicount\Discount.Core\bin\Debug\net9.0\Discount.Core.dll
+F:\visual studio\Ecommerce\services\dicount\Discount.Core\bin\Debug\net9.0\Discount.Core.pdb
+F:\visual studio\Ecommerce\services\dicount\Discount.Core\obj\Debug\net9.0\Discount.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\Ecommerce\services\dicount\Discount.Core\obj\Debug\net9.0\Discount.Core.AssemblyInfoInputs.cache
+F:\visual studio\Ecommerce\services\dicount\Discount.Core\obj\Debug\net9.0\Discount.Core.AssemblyInfo.cs
+F:\visual studio\Ecommerce\services\dicount\Discount.Core\obj\Debug\net9.0\Discount.Core.csproj.CoreCompileInputs.cache
+F:\visual studio\Ecommerce\services\dicount\Discount.Core\obj\Debug\net9.0\Discount.Core.sourcelink.json
+F:\visual studio\Ecommerce\services\dicount\Discount.Core\obj\Debug\net9.0\Discount.Core.dll
+F:\visual studio\Ecommerce\services\dicount\Discount.Core\obj\Debug\net9.0\refint\Discount.Core.dll
+F:\visual studio\Ecommerce\services\dicount\Discount.Core\obj\Debug\net9.0\Discount.Core.pdb
+F:\visual studio\Ecommerce\services\dicount\Discount.Core\obj\Debug\net9.0\ref\Discount.Core.dll

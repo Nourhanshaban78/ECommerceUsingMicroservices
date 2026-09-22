@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0lSb1hQx+QI=",
+  "dgSpecHash": "YUEo5K8pQVI=",
   "success": true,
   "projectFilePath": "F:\\visual studio\\Ecommerce\\services\\basket\\Basket.Application\\Basket.Application.csproj",
   "expectedPackageFiles": [
@@ -16,7 +16,10 @@
     "C:\\Users\\Work\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
     "C:\\Users\\Work\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
-    "C:\\Users\\Work\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\Work\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.18\\microsoft.windowsdesktop.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.18\\microsoft.netcore.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.18\\microsoft.aspnetcore.app.ref.9.0.18.nupkg.sha512"
   ],
   "logs": [
     {
